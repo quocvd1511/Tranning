@@ -1,0 +1,8 @@
+num of privilege escalation success: 100/100
+num of gather hashdump success: 70/100
+privilege escalation: 14.82
+gather information: 82.32857142857142
+lateral movement successful all: 45/100
+lateral movement compromised each time: [0, 0, 1, 1, 0, 2, 0, 2, 0, 0, 0, 0, 2, 2, 0, 2, 2, 2, 1, 0, 2, 2, 2, 2, 2, 1, 2, 1, 1, 0, 1, 1, 2, 1, 1, 0, 2, 0, 1, 2, 1, 1, 1, 2, 0, 1, 2, 0, 1, 1, 1, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 0, 2, 2, 2, 2, 2, 1, 2, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 1, 2, 2, 1, 0, 2, 1, 2, 1, 2]
+
+

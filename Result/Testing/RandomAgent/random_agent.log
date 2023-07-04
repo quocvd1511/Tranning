@@ -1,0 +1,32 @@
+num of privilege escalation success: 100/100
+num of gather hashdump success: 83/100
+privilege escalation: 14.36
+gather information: 79.73493975903614
+lateral movement successful all: 6/100
+lateral movement compromised each time: [1, 0, 2, 2, 3, 1, 0, 1, 3, 1, 2, 0, 3, 0, 1, 0, 3, 3, 0, 4, 1, 0, 1, 3, 4, 1, 4, 0, 2, 0, 0, 0, 2, 2, 2, 1, 3, 2, 1, 2, 2, 3, 1, 1, 1, 0, 0, 3, 2, 2, 0, 2, 3, 2, 0, 0, 2, 0, 3, 1, 1, 3, 1, 2, 3, 3, 1, 3, 2, 0, 3, 4, 3, 2, 0, 0, 4, 2, 3, 3, 0, 1, 3, 2, 0, 3, 2, 1, 2, 1, 0, 2, 1, 3, 3, 4, 1, 1, 1, 1]
+
+
+num of privilege escalation success: 100/100
+num of gather hashdump success: 77/100
+privilege escalation: 15.22
+gather information: 80.1038961038961
+lateral movement successful all: 28/100
+lateral movement compromised each time: [2, 1, 2, 1, 1, 1, 2, 1, 1, 0, 1, 0, 0, 2, 2, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 2, 2, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 2, 0, 0, 1, 1, 1, 1, 2, 2, 1, 1, 2, 0, 2, 1, 1, 2, 1, 1, 0, 2, 0, 2, 1, 1, 2, 0, 1, 1, 2, 1, 0, 2, 1, 0, 1, 1, 1, 0, 2, 2, 2, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 2, 1]
+
+
+num of privilege escalation success: 91/100
+num of gather hashdump success: 41/100
+privilege escalation: 67.79120879120879
+gather information: 91.95121951219512
+lateral movement successful all: 21/100
+lateral movement compromised each time: [3, 1, 3, 1, 1, 1, 2, 1, 2, 2, 1, 3, 1, 2, 2, 2, 1, 2, 2, 3, 3, 3, 2, 2, 3, 1, 2, 2, 3, 2, 2, 2, 2, 3, 1, 1, 1, 2, 2, 1, 2, 1, 2, 2, 2, 1, 3, 0, 0, 2, 2, 2, 1, 2, 2, 3, 3, 3, 3, 1, 2, 1, 2, 1, 1, 1, 2, 2, 2, 0, 3, 2, 0, 0, 2, 3, 1, 1, 3, 2, 2, 2, 1, 1, 0, 2, 0, 2, 1, 3, 3, 2, 2, 2, 1, 3, 3, 1, 1, 2]
+
+
+num of privilege escalation success: 89/100
+num of gather hashdump success: 38/100
+privilege escalation: 75.74157303370787
+gather information: 84.84210526315789
+lateral movement successful all: 32/100
+lateral movement compromised each time: [2, 2, 0, 1, 2, 1, 0, 2, 1, 2, 2, 1, 1, 0, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 0, 2, 1, 2, 0, 1, 2, 0, 1, 2, 1, 1, 2, 1, 1, 1, 0, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 0, 2, 0, 1, 2, 1, 0, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 2, 1, 0, 1, 0, 0, 1, 1, 1, 2, 1]
+
+

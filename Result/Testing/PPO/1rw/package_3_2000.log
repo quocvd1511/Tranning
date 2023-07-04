@@ -1,0 +1,16 @@
+num of privilege escalation success: 100/100
+num of gather hashdump success: 50/100
+privilege escalation: 103.41
+gather information: 135.3
+lateral movement successful all: 53/100
+lateral movement compromised each time: [3, 3, 3, 2, 3, 3, 3, 3, 2, 2, 2, 2, 3, 3, 3, 2, 2, 3, 2, 3, 3, 2, 3, 2, 2, 2, 2, 2, 3, 3, 3, 2, 2, 2, 2, 2, 3, 2, 2, 3, 3, 3, 2, 3, 2, 3, 2, 2, 3, 2, 2, 3, 3, 3, 3, 3, 2, 2, 2, 3, 3, 2, 2, 3, 2, 2, 2, 2, 2, 3, 3, 2, 3, 2, 3, 3, 3, 3, 3, 2, 2, 3, 3, 3, 3, 2, 3, 2, 3, 3, 2, 2, 3, 2, 3, 2, 3, 3, 3, 3]
+
+
+num of privilege escalation success: 100/100
+num of gather hashdump success: 57/100
+privilege escalation: 94.93
+gather information: 175.12280701754386
+lateral movement successful all: 53/100
+lateral movement compromised each time: [2, 3, 3, 2, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 3, 3, 3, 2, 3, 2, 3, 2, 2, 2, 3, 2, 2, 3, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3, 3, 2, 2, 2, 3, 3, 3, 3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 3, 2, 2, 3, 2, 2, 3, 3, 2, 3, 3, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 2, 2, 3, 2, 3, 3, 3, 2, 3, 3, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2, 2, 3]
+
+

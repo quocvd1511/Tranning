@@ -1,0 +1,40 @@
+num of privilege escalation success: 86/100
+num of gather hashdump success: 30/100
+privilege escalation: 61.58139534883721
+gather information: 81.93333333333334
+lateral movement successful all: 48/100
+lateral movement compromised each time: [2, 1, 1, 1, 1, 1, 2, 0, 1, 1, 1, 2, 0, 1, 1, 2, 2, 2, 2, 0, 0, 2, 0, 2, 2, 1, 1, 2, 2, 1, 2, 2, 1, 2, 1, 1, 1, 1, 0, 1, 2, 0, 2, 2, 1, 1, 2, 2, 0, 1, 2, 1, 2, 2, 1, 2, 2, 1, 1, 0, 2, 2, 1, 2, 2, 0, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 2, 2, 0, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1]
+
+
+num of privilege escalation success: 87/100
+num of gather hashdump success: 34/100
+privilege escalation: 67.86206896551724
+gather information: 89.02941176470588
+lateral movement successful all: 47/100
+lateral movement compromised each time: [1, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 2, 0, 2, 2, 2, 2, 2, 0, 1, 2, 1, 2, 2, 0, 2, 1, 2, 1, 0, 0, 1, 1, 2, 2, 1, 2, 2, 1, 1, 0, 2, 2, 2, 0, 1, 2, 1, 1, 2, 0, 1, 0, 2, 2, 2, 1, 2, 1, 0, 0, 2, 1, 0, 0, 1, 2, 2, 1, 2, 1, 1, 1, 2, 1, 2, 0, 1, 0, 2, 2, 2]
+
+
+num of privilege escalation success: 87/100
+num of gather hashdump success: 40/100
+privilege escalation: 61.252873563218394
+gather information: 98.4
+lateral movement successful all: 33/100
+lateral movement compromised each time: [1, 2, 1, 0, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1, 0, 0, 1, 1, 2, 1, 2, 2, 1, 1, 1, 2, 1, 2, 2, 2, 0, 0, 1, 2, 0, 1, 2, 1, 1, 1, 2, 2, 2, 0, 1, 2, 1, 1, 1, 0, 2, 1, 1, 1, 2, 1, 1, 2]
+
+
+num of privilege escalation success: 89/100
+num of gather hashdump success: 42/100
+privilege escalation: 63.97752808988764
+gather information: 85.0
+lateral movement successful all: 40/100
+lateral movement compromised each time: [2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 1, 0, 1, 0, 2, 2, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 2, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 0, 1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 2, 1, 1, 2, 2, 0, 2, 2, 1, 1, 1, 1, 2, 0, 2, 1, 2, 2, 1, 0, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 2, 0, 2, 2, 0, 2, 0, 2, 1, 1, 1, 1, 2]
+
+
+num of privilege escalation success: 83/100
+num of gather hashdump success: 36/100
+privilege escalation: 71.3855421686747
+gather information: 100.91666666666667
+lateral movement successful all: 34/100
+lateral movement compromised each time: [0, 1, 1, 2, 1, 1, 1, 1, 2, 0, 2, 1, 2, 0, 2, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 0, 2, 1, 1, 0, 2, 1, 1, 2, 1, 1, 1, 1, 2, 0, 0, 1, 1, 1, 2, 1, 0, 1, 2, 1, 2, 1, 2, 1, 0, 1, 2, 2, 2, 0, 2, 2, 2, 1, 1, 1, 2, 2, 0, 1, 2, 1, 1, 2, 2, 1, 1, 0, 1, 1, 1, 2, 1, 0, 0, 1, 0, 1, 1, 1, 2, 1, 2, 1, 2, 1]
+
+

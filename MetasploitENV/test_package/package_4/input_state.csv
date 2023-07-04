@@ -1,0 +1,2 @@
+﻿Platform,Number of peers,Peers index,Peers vulnerable port,Windows UAC,Windows in admin group,Windows is Admin,Windows have SYSTEM,Linux Have Root,Linux Kernel,Gather point, Peers platform
+linux,2,0,0,0,0,0,0,0,1,0,0

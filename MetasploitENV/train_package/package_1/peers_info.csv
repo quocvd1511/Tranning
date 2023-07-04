@@ -1,0 +1,4 @@
+﻿ip,vul port,platform
+172.168.16.20,445,windows
+172.168.16.21,445,linux
+172.168.16.22,-1,linux
